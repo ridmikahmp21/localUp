@@ -39,9 +39,3 @@ LocalUp is a **full-stack web application** that serves as both a **marketplace 
 - **Notifications:** Nodemailer (Email), WebSMS (SMS)  
 - **Hosting & Storage:** AWS  
 
-#### **License**  
-This project is open-source and available under the **MIT License**.  
-
----
-
-This **README** provides a clear project description, key features, setup instructions, and technology stack details. Let me know if you need any refinements! 🚀
